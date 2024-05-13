@@ -10,11 +10,8 @@ import javax.swing.JButton;
 
 public class Board extends JPanel implements ActionListener {
 
-	public Board() {
-
-
+	public Board(){
 	}
-
 
 	private void gameBackround(Graphics g){
 		Color velvetRed = new Color(77,0,0);
